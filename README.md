@@ -7,7 +7,7 @@
 [![Latest release](https://img.shields.io/github/v/release/MrCiastek-mods/Cookir-menu-GT?label=latest&color=8a2be2)](https://github.com/MrCiastek-mods/Cookir-menu-GT/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MrCiastek-mods/Cookir-menu-GT/total?color=ff8c00)](https://github.com/MrCiastek-mods/Cookir-menu-GT/releases)
 
-### [⬇️ Download CooKirMenu_3.dll](https://github.com/MrCiastek-mods/Cookir-menu-GT/releases))
+### [⬇️ Download CooKirMenu](https://github.com/MrCiastek-mods/Cookir-menu-GT/releases))
 
 English by default · Polski w menu
 
